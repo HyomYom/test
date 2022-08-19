@@ -21,7 +21,9 @@ asljdflaisjefj
 asdf
 
 sdf123
-
+git branch -u origin/main main
 수정 
+수정2
+
 </body>
 </html>
