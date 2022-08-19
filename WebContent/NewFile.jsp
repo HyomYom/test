@@ -21,14 +21,22 @@ asljdflaisjefj
 asdf
 
 sdf123
+
+
+
+aslfjlsaiejflj
+
 git branch -u origin/main main
 수정 
 수정2
- 
+
  
  
 add 2108
 
+<<<<<<< HEAD
 add 2118
+=======
+>>>>>>> origin/main
 </body>
 </html>
