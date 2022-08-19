@@ -21,8 +21,15 @@ asljdflaisjefj
 asdf
 
 sdf123
+<<<<<<< HEAD
 
 
 aslfjlsaiejflj
+=======
+git branch -u origin/main main
+수정 
+수정2
+
+>>>>>>> 771b3974289a1daa501dd9d44390dbf18bdeb900
 </body>
 </html>
