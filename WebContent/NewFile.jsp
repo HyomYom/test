@@ -21,13 +21,26 @@ asljdflaisjefj
 asdf
 
 sdf123
+<<<<<<< HEAD
 
 
+=======
+
+
+
+aslfjlsaiejflj
+
+git branch -u origin/main main
+>>>>>>> c29e6c714b9c5118cdf6a0872800b591b2402a37
 수정 
 수정2
- 
+
  
  
 add 2108
+<<<<<<< HEAD
+=======
+
+>>>>>>> c29e6c714b9c5118cdf6a0872800b591b2402a37
 </body>
 </html>
